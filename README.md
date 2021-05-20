@@ -1,2 +1,2 @@
 # PF-code-exercises
-Programming Fundamentals code exercises
+Programming Fundamentals coding exercises
