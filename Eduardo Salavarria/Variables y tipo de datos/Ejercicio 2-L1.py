@@ -1,3 +1,4 @@
+#Borrador
 #En una carretera el limite de velocidad es 70km/h y se pondra multa a las personas que sobrepasen el limite de velocidad.
 #Por lo que para mantener un correcto transito en la via se necesita calular las velocidades de los autos.
 #Lamentablemente los datos que se obtienen son la distancia (120 METROS) y un tiempo recorrido

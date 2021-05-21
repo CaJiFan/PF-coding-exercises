@@ -1,3 +1,4 @@
+#Borrador
 #recTech una compañia de videojuegos le pide a usted que le realice un programa con el que se pueda jugar a el famoso juego de el ahorcado para ello le da un texto(inmutable) con las palabras necesarias para el juego (las primera dos palabras y las dos ultimas)
 #el juego consiste en poner una palabra al azar y mostrarla de la siguiente manera
 #Ejemplo:

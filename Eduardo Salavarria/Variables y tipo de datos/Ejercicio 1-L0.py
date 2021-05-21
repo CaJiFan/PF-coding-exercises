@@ -1,3 +1,5 @@
+#Borrador
+
 #Revise e imprima los tipos de datos que se encuentran en cada variable
 #Nota: Diferencie los tipos de datos que puede encontrar en python
 #Use la funcion type(var)
