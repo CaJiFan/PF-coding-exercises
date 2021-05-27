@@ -1,0 +1,10 @@
+rosas|15
+manzanas|5
+peras|10
+sandia|1
+frutilla|7
+donas|8
+lapices|14
+durazno|32
+mouse|2
+paraguas|1
