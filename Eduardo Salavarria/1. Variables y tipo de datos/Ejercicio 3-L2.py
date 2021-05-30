@@ -1,6 +1,7 @@
-#Borrador
-#Un mensaje se encuentra codificado cada letra del mensaje son +3 letras en el abecedario ingles (sin incluir la ñ)
-#realice un programa que ayude a decodificarlo y encuentre el mensaje escondido tras de este
+#Terminado
+
+#Un mensaje se encuentra codificado y para decodificarlo se sabe que cada letra del mensaje son +3 letras en el abecedario ingles (sin incluir la ñ)
+#realice un programa que ayude a decodificarlo y encuentre el mensaje escondido en este.
 
 #Utilice slicing
 #Nota: Utilice use convenientemente el abecedario que se encuentra ahi

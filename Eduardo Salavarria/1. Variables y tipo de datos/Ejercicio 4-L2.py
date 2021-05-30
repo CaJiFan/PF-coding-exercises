@@ -1,11 +1,13 @@
-#Borrador
-#Usted recibe las variables texto1 y texto2 que tiene una separacion con un caracter especial "|". 
+#Terminado
+
+
+#Usted recibe las variables texto1 y texto2 que tiene una separación con un caracter especial "|". 
 #En el texto1 se encuentran las calificaciones y en el texto2 que contiene los estudiantes de igual manera.
 #Determine una manera en que pueda sacar dos listas distintas y hacer lo siguiente:
 
-#determine cuantos estudiantes hay en el paralelo
-#Determine cual fue el estudiante con mejor calificacion y muestre en pantalla su calificacion
-#Con la libreria random muestre en pantalla un estudiante al azar con su calificacion
+#Determinar cuantos estudiantes hay en el paralelo
+#Determine cual fue el estudiante con mejor calificación y muestre en pantalla su calificación
+#Con la librería random muestre en pantalla un estudiante al azar con su calificación
 
 import random as rd
 

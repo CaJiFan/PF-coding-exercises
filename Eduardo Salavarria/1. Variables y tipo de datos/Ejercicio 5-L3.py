@@ -1,11 +1,14 @@
-#Borrador
-#recTech una compañia de videojuegos le pide a usted que le realice un programa con el que se pueda jugar a el famoso juego de el ahorcado para ello le da un texto(inmutable) con las palabras necesarias para el juego (las primera dos palabras y las dos ultimas)
-#el juego consiste en poner una palabra al azar y mostrarla de la siguiente manera
+#Terminado
+
+#Una compañía de videojuegos le pide a usted desarrollar el juego del ahorcado, el CEO de la empresa deja una conversación en la que detalla que palabras quiere que sean utilizadas. 
+#En su programa debe crear una manera conveniente de poder determinar estas palabras y escoger una al azar.
+#También para poder crear el juego uno de los requisitos indispensables es poder mostrar la primera y la ultima letra de la palabra (en mayúsculas).
 #Ejemplo:
 #
 #       N _ _ _ _ E =  nombre
 #
-#Luego, pida al usuario que ingrese una palabra y verfique con True o False si la palabra que ingreso es correcta.
+#Luego, pida al usuario ingresar una palabra para verificar si es la correcta y que muestre en pantalla True si la palabra es la misma que el programa eligió al azar y False si la palabra que ingresó esta incorrecta.
+
 
 import random as rd
 
@@ -34,10 +37,10 @@ palabra_4 = palabra_4[:index_palabra4_fin]
 lista_palabras = [palabra_1,palabra_2,palabra_3,palabra_4]
 
 random_index = rd.randrange(len(lista_palabras))
-chosen_word = lista_palabras[random_index]
+chosen_word = lista_palabras[random_index].upper()
 first_char = chosen_word[0]
 last_char = chosen_word[-1]
 print(first_char+(" _ "*(len(chosen_word)-2))+last_char)
 
-palabra_usuario = input("Ingrese una palabra: ")
+palabra_usuario = input("Ingrese una palabra: ").upper()
 print("La palabra es correcta?", palabra_usuario==chosen_word)

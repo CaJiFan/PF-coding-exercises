@@ -1,0 +1,12 @@
+cliente,cantidad
+Sebastian,40.00
+Luis,201.2
+Kenya,24.00
+Juan,42.00
+Andres,19.53
+Dan,59.32
+Julia,55.2
+Emilio,322.3
+Eduardo,93.2
+Elena,21
+Diego,28

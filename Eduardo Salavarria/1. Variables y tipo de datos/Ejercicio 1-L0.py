@@ -1,4 +1,4 @@
-#Borrador
+#Terminado
 
 #Revise e imprima los tipos de datos que se encuentran en cada variable
 #Nota: Diferencie los tipos de datos que puede encontrar en python
@@ -14,8 +14,8 @@ print(type(var2))
 print(type(var3))
 
 #Realice un programa en el que pueda ingresar sus datos personales y muestre por pantalla
-#Realice la conversion de datos que sean necesarias para los datos
-#por ejemplo si su edad es 18 el tipo de dato debe ser int (entero)
+#Realice la conversión de datos que sean necesarias para los datos
+#Por ejemplo si su edad es 18 el tipo de dato debe ser int (entero)
 
 #Nombres
 #Apellidos
@@ -46,8 +46,8 @@ print("Mi cedula:", cedula)
 print("Mi edad es:", edad)
 print("Voy en el semestre:", semestre)
 
-#Con el uso de python tambien se pueden hacer operaciones matematicas
-#como el calculo de areas, perimetros, volumenes de figuras geometricas
+#Con el uso de python también se pueden hacer operaciones matemáticas
+#como el calculo de areas, perímetros, volúmenes de figuras geometricas
 
 #para una esfera de r = 2, r = 3, r = 4, muestre en pantalla:
 #   *area
