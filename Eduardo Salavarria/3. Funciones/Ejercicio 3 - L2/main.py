@@ -1,3 +1,7 @@
+#Terminado
+#En un equipo de futbol se tiene una lista de jugadores con sus respectivas alturas y pesos de manera paralela realice las funciones requeridas en el archivo
+#de funciones.py
+
 from funciones import *
 jugadores=["Carlos","Juan","Pedro","Luis","Marcos","José","Roberto","Eduardo", "Ramiro","Rubén","René", "Mario", "Jorge"]
 altura = [180, 215, 210, 210, 188, 176, 209, 200, 210, 188, 176, 209, 200]

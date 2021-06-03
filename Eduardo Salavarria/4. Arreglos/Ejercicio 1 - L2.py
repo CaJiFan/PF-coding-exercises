@@ -1,5 +1,9 @@
+#Terminado
+
+#Cree un programa que pida al usuario ingresar el numero de filas y columnas de un arreglo numpy y sustituya todas las esquinas del arreglo por 1's.
+
+#Solucion
 import numpy as np
-#Cree un programa que pida al usuario ingresar el numero de filas y columnas de un arreglo numpy y sustituya todas las esquinas del arreglo por 1
 
 
 filas = int(input("Ingrese un número para las filas: "))

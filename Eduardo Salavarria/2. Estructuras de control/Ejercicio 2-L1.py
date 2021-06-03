@@ -1,5 +1,12 @@
-#Borrador
-#usando for
+#Terminado
+
+#Cree un programa en la que pida al usuario 3 materias y las notas en cada una de las materias respectivamente (use listas vacias para guardar la informacion).
+#Luego:
+#Muestre en pantalla la materia con mejor promedio y su respectivo promedio.
+#Muestre el promedio de las 3 materias ingresadas.
+#Verifique si el estudiante aprobo el semestre y muestre en pantalla la respuesta.
+
+#Solucion
 materias = []
 notas = []
 

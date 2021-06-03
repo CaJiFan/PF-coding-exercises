@@ -1,6 +1,13 @@
+#Terminado
 
-#defina una funcion para registrar a los estudiantes con sus notas 
-#Defina una funcion que reciba una lista de las notas y de los nombres y determine el mejor estudiantes
+#En una institucion se necesita registrar a cada estudiantes y por eso el director le pide a usted crear un programa de python
+#que le permita realizar esto.
+#Defina una funcion  que le ayude a registrar a los estudiantes con sus notas, esta funcion recibe de argumentos la lista nombres, lista de notas
+#el nombre y la nota del estudiante a registar
+#Defina una funcion que reciba una lista de las notas y de los nombres y retorne el nombre del mejor estudiante.
+#Muestre por pantalla el resultado de las funciones.
+
+#Solucion
 nombres = []
 notas = []
 

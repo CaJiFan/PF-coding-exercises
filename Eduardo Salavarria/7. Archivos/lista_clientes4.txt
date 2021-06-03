@@ -1,3 +1,4 @@
+Cliente,Sucursal,Mes,Total
 Emilio,Centro,3,166.36
 Juan,Centro,1,317.6
 Emilio,Sur,6,962.89

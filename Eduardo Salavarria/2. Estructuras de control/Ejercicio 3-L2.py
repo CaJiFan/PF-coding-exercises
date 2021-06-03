@@ -1,7 +1,10 @@
-#Borrador
+#Terminado
+
 #Realice un programa que compruebe la mayoria de edad de una persona
 #Muestre por pantalla si la persona es mayor o menor de edad
+#Pida al usuario el dia, mes, año de su fecha de nacimiento y calcule la edad actual
 
+#Solucion
 dia = int(input("Ingrese el dia de su nacimiento: "))
 mes = int(input("Ingrese el mes de su nacimiento: "))
 year = int(input("Ingrese el año de su nacimiento: "))
@@ -22,7 +25,8 @@ if (edad >= 18):
 else:
     print("Usted es menor de edad")
 
-#determine cuantas veces se repiten las vocales en una oracion dada
+#Con un programa determine las vocales que se encuentran en una oracion ingresada por el usuario
+
 oracion = "aaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeeeeiiiiiiiiiiiiiiiiooou"
 cont_a = 0
 cont_e = 0

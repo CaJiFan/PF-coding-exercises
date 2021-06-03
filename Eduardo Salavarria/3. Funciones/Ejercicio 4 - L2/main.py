@@ -1,3 +1,7 @@
+#Terminado
+
+#Usted trabaja en una tienda y le piden definir las funciones que se encuentran en el archivo "funciones.py" los datos de la tienda que le son proporcionados son una lista con los precios de los productos, lista de los nombres de los productos y una lista con los codigos de cada uno de los productos
+
 from funciones import *
 l_precios = [1,2.3,4.2,3,2]
 l_productos = ['Cebolla', 'Papa', 'Queso', 'Pimiento', 'Pan']

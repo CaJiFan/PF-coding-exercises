@@ -1,7 +1,23 @@
+#Terminado
 import random as rd
+#En un juego que a usted le piden crear juegan 3 fichas A, B ,C, son las fichas principales del juego. Cada una de las fichas del juego
+#tiene un camino de 24 subguiones dentro de una lista, las fichas A, B ,C empienzan en el indice 0 de la lista de esta manera.
+# Iniciando juego
+# ['A', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_']
+# ['B', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_']
+# ['C', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_']
+#Con un dado las fichas se van a ir moviendo de acuerdo a el numero obtenido al dado, el juego no debe terminar hasta que una de las
+#fichas haya terminado el juego.
+# Jugador A acaba de ganar
+# ['_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', 'A']
+# ['_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', 'B', '_', '_', '_', '_', '_']
+# ['_', '_', '_', '_', '_', '_', '_', '_', '_', '_', 'C', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_', '_']
+
+#Solucion
 lista_1 = ['_']*24
 lista_2 = ['_']*24
 lista_3 = ['_']*24
+
 player_1 = 'A'
 player_2 = 'B'
 player_3 = 'C'
@@ -12,7 +28,9 @@ start = 'ABC'
 lista_1[0] = 'A'
 lista_2[0] = 'B'
 lista_3[0] = 'C'
-
+print(lista_1)
+print(lista_2)
+print(lista_3)
 won = False
 jugadas = 0
 

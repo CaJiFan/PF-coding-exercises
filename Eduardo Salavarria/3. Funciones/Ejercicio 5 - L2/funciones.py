@@ -1,7 +1,4 @@
 #calculadora
-
-#saber si es un numero
-
 def operacion(string):
     if "+" in string:
         signo = '+'
@@ -23,10 +20,6 @@ def operacion(string):
         n1,n2 = string.split("/")
         n1,n2 = float(n1), float(n2)
         return n1,n2,signo
-
-def validar(n1, n2):
-    if not(n1.isdigit() or n2.isdigit):
-        print("Uno de numeros ingresados no es valido")
 
 def suma(n1,n2):
     return n1 + n2
