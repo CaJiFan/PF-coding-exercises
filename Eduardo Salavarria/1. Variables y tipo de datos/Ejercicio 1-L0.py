@@ -57,6 +57,6 @@ radio = 2
 pi = 3.14
 
 area = 4*pi*((radio)**2)
-volumen = 4/3*pi*((radio)**3)
+volumen = (4/3)*(pi)*((radio)**3)
 print(area)
 print(volumen)
